@@ -20,7 +20,7 @@ export const PoweredBy: FC = () => {
           {truncateAddress(contractAddress)}
         </p>
         <p className="text-[8px] font-bold text-white/50">
-          powered by thirdweb
+          powered by OBYC Labs
         </p>
       </div>
     </a>
